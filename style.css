@@ -1,0 +1,22 @@
+html,body{
+  height:100%;
+  background-color: #ffbf00;
+}
+
+.bgo{
+  background-color: #f8740a;
+}
+.logo{
+  position:relative;
+}
+.logo-top{
+  padding:0px;
+  margin:0px;
+  border:0px;
+  position:relative;
+  border-bottom-right-radius: 50% 100%;
+  border-bottom-left-radius: 50% 100%;
+}
+.bg-logo-top{
+  position:absolute;
+}
